@@ -7,7 +7,7 @@ Introduction goes here.
 
 1. Add this extension to your Gemfile with this line:
   ```ruby
-  gem 'spree_publish_products', github: '[your-github-handle]/spree_publish_products'
+  gem 'spree_publish_products', github: 'nitinmukund76/spree_publish_products'
   ```
 
 2. Install the gem using Bundler:
